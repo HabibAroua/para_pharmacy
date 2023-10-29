@@ -1,0 +1,33 @@
+2023-10-29T19:32:18+00:00 CRITICAL Uncaught Error: Call to undefined function wp_trip_all_tags() in C:\xampp\htdocs\para_pharmacy\wp-content\themes\woostify\inc\widget\class-woostify-recent-post-thumbnail.php:148
+Stack trace:
+#0 C:\xampp\htdocs\para_pharmacy\wp-includes\class-wp-widget.php(457): Woostify_Recent_Post_Thumbnail->update(Array, Array)
+#1 C:\xampp\htdocs\para_pharmacy\wp-admin\includes\ajax-actions.php(2416): WP_Widget->update_callback(Array)
+#2 C:\xampp\htdocs\para_pharmacy\wp-includes\class-wp-hook.php(310): wp_ajax_save_widget('')
+#3 C:\xampp\htdocs\para_pharmacy\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\para_pharmacy\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\para_pharmacy\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save-wi...')
+#6 {main}
+  thrown in C:\xampp\htdocs\para_pharmacy\wp-content\themes\woostify\inc\widget\class-woostify-recent-post-thumbnail.php on line 148
+
+2023-10-29T19:32:41+00:00 CRITICAL Uncaught Error: Call to undefined function wp_trip_all_tags() in C:\xampp\htdocs\para_pharmacy\wp-content\themes\woostify\inc\widget\class-woostify-recent-post-thumbnail.php:148
+Stack trace:
+#0 C:\xampp\htdocs\para_pharmacy\wp-includes\class-wp-widget.php(457): Woostify_Recent_Post_Thumbnail->update(Array, Array)
+#1 C:\xampp\htdocs\para_pharmacy\wp-admin\includes\ajax-actions.php(2416): WP_Widget->update_callback(Array)
+#2 C:\xampp\htdocs\para_pharmacy\wp-includes\class-wp-hook.php(310): wp_ajax_save_widget('')
+#3 C:\xampp\htdocs\para_pharmacy\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\para_pharmacy\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\para_pharmacy\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save-wi...')
+#6 {main}
+  thrown in C:\xampp\htdocs\para_pharmacy\wp-content\themes\woostify\inc\widget\class-woostify-recent-post-thumbnail.php on line 148
+
+2023-10-29T19:33:28+00:00 CRITICAL Uncaught Error: Call to undefined function wp_trip_all_tags() in C:\xampp\htdocs\para_pharmacy\wp-content\themes\woostify\inc\widget\class-woostify-recent-post-thumbnail.php:148
+Stack trace:
+#0 C:\xampp\htdocs\para_pharmacy\wp-includes\class-wp-widget.php(457): Woostify_Recent_Post_Thumbnail->update(Array, Array)
+#1 C:\xampp\htdocs\para_pharmacy\wp-admin\includes\ajax-actions.php(2416): WP_Widget->update_callback(Array)
+#2 C:\xampp\htdocs\para_pharmacy\wp-includes\class-wp-hook.php(310): wp_ajax_save_widget('')
+#3 C:\xampp\htdocs\para_pharmacy\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\para_pharmacy\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\para_pharmacy\wp-admin\admin-ajax.php(188): do_action('wp_ajax_save-wi...')
+#6 {main}
+  thrown in C:\xampp\htdocs\para_pharmacy\wp-content\themes\woostify\inc\widget\class-woostify-recent-post-thumbnail.php on line 148
+
